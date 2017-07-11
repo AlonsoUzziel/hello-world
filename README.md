@@ -1,2 +1,2 @@
 # hello-world
-first proyect
+first project
